@@ -1,0 +1,21 @@
+# Weights File
+/weights
+
+# data
+/data
+
+# Wandb
+/wandb
+
+# Metrics
+/metrics/data
+
+# Logs
+/logging/*
+
+# Evaluation
+/evaluation
+
+*.json
+
+*.txt
